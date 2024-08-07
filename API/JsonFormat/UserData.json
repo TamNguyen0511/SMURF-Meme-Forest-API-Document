@@ -1,0 +1,42 @@
+﻿{
+  "UserID": "abc",
+  "UserName": "Pysoga",
+  "UserGold": 1000,
+  "UserGem": 10,
+  "OwningHero": [
+    {
+      "HeroElement": "Metal",
+      "HeroRarity": "Common",
+      "HeroLevel": 1,
+      "HeroEquipmentLevel": [
+        {
+          "Helmet": 10,
+          "Armor": 5,
+          "Glove": 1,
+          "Weapon": 50,
+          "Belt": 4,
+          "Shoe": 11
+        }
+      ]
+    },
+    {
+      "HeroElement": "Metal",
+      "HeroRarity": "Uncommon",
+      "HeroLevel": 1,
+      "HeroEquipmentLevel": [
+        {
+          "Helmet": 10,
+          "Armor": 5,
+          "Glove": 1,
+          "Weapon": 50,
+          "Belt": 4,
+          "Shoe": 11
+        }
+      ]
+    }
+  ],
+  "GuildName": null,
+  "MaxBossCall": 1,
+  "CurrentBossCalled": 0,
+  "LastLoginTime": "2024-08-07T12:01:55.714942+07:00"
+}

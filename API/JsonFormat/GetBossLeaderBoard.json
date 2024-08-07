@@ -1,0 +1,14 @@
+﻿{
+  "LeaderBoard": [
+    {
+      "UserName": "abc",
+      "Score": 100,
+      "Rank": 1
+    },
+    {
+      "UserName": "acb",
+      "Score": 98,
+      "Rank": 2
+    }
+  ]
+}

@@ -1,0 +1,78 @@
+﻿{
+  "Teams": [
+    {
+      "UserId": "abc",
+      "HeroDataAndPosition": [
+        {
+          "HeroElement": "Metal",
+          "HeroRarity": "Common",
+          "HeroLevel": 1,
+          "HeroEquipmentLevel": [
+            {
+              "Helmet": 10,
+              "Armor": 5,
+              "Glove": 1,
+              "Weapon": 50,
+              "Belt": 4,
+              "Shoe": 11
+            }
+          ],
+          "Position": 7
+        },
+        {
+          "HeroElement": "Metal",
+          "HeroRarity": "Common",
+          "HeroLevel": 1,
+          "HeroEquipmentLevel": [
+            {
+              "Helmet": 10,
+              "Armor": 5,
+              "Glove": 1,
+              "Weapon": 50,
+              "Belt": 4,
+              "Shoe": 11
+            }
+          ],
+          "Position": 5
+        }
+      ]
+    },
+    {
+      "UserId": "acc",
+      "HeroDataAndPosition": [
+        {
+          "HeroElement": "Metal",
+          "HeroRarity": "Common",
+          "HeroLevel": 1,
+          "HeroEquipmentLevel": [
+            {
+              "Helmet": 10,
+              "Armor": 5,
+              "Glove": 1,
+              "Weapon": 50,
+              "Belt": 4,
+              "Shoe": 11
+            }
+          ],
+          "Position": 7
+        },
+        {
+          "HeroElement": "Metal",
+          "HeroRarity": "Common",
+          "HeroLevel": 1,
+          "HeroEquipmentLevel": [
+            {
+              "Helmet": 10,
+              "Armor": 5,
+              "Glove": 1,
+              "Weapon": 50,
+              "Belt": 4,
+              "Shoe": 11
+            }
+          ],
+          "Position": 5
+        }
+      ]
+    }
+  ]
+}
