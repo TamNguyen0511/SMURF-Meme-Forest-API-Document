@@ -3,6 +3,7 @@
   "UserName": "Pysoga",
   "UserGold": 1000,
   "UserGem": 10,
+  "Lord": "Golden lord",
   "OwningHero": [
     {
       "HeroElement": "Metal",
@@ -35,7 +36,9 @@
       ]
     }
   ],
+  "UserElo": 100,
   "GuildName": null,
+  "ConnectedWallet": "something Idk",
   "MaxBossCall": 1,
   "CurrentBossCalled": 0,
   "LastLoginTime": "2024-08-07T12:01:55.714942+07:00"
