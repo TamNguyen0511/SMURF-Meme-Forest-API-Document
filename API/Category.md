@@ -2,4 +2,4 @@
 
 ---
 ## [Get API](AllGet/APIGet.md)
-## [Out API](AllPut/APIPut.md)
+## [Put API](AllPut/APIPut.md)
