@@ -41,5 +41,10 @@
   "ConnectedWallet": "something Idk",
   "MaxBossCall": 1,
   "CurrentBossCalled": 0,
-  "LastLoginTime": "2024-08-07T12:01:55.714942+07:00"
+  "LastLoginTime": "2024-08-07T12:01:55.714942+07:00",
+   "MyReferal": "abc"
+   "Friendlist": [
+       "abc",
+       "xyz"
+   ]
 }
